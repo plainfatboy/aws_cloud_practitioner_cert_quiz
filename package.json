@@ -1,0 +1,24 @@
+{
+  "name": "aws_cloud_practitioner_cert_quiz",
+  "version": "1.0.0",
+  "description": "Quiz for AWS Cloud Practitioner",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plainfatboy/aws_cloud_practitioner_cert_quiz.git"
+  },
+  "author": "PlainFatBoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plainfatboy/aws_cloud_practitioner_cert_quiz/issues"
+  },
+  "homepage": "https://github.com/plainfatboy/aws_cloud_practitioner_cert_quiz#readme"
+}
