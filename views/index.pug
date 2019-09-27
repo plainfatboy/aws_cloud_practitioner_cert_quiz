@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p Testing
+  a(href='google.com') Google
+  |
+  |
+  a(class='button' href='google.com') Google
+  a(class='button', href='google.com') Google
+  input(
+    type='checkbox'
+    name='agreement'
+    checked
+  )
+  | Don't
+  |
+  button#self-destruct touch
+  |
+  | me!
